@@ -22,7 +22,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white;
+  color: #a8a8a8;
   text-decoration: none;
 }
 
@@ -73,7 +73,7 @@ td {
 }
 
 .selected a {
-  color: #a8a8a8;
+  color: white;
 }
 
 .political-line .political-mark {
