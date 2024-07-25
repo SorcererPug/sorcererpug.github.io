@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #333;
+  padding: 1em;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 1em;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+header, footer {
+  background-color: #f4f4f4;
+  padding: 2em;
+  text-align: center;
+}
+
+main {
+  padding: 2em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  color: #333;
+}
+
+h2 {
+  margin-top: 1em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+p {
+  color: #555;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th {
+  background-color: #f4f4f4;
+  padding: 0.5em;
+  text-align: center;
+}
+
+table tr {
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+
+td {
+  padding: 0.5em;
+}
+
+.selected a {
+  color: #a8a8a8;
+}
+
+.political-line .political-mark {
+  text-decoration: line-through;
+}
