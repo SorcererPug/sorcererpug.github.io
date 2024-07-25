@@ -80,6 +80,13 @@ td {
   text-decoration: line-through;
 }
 
+img {
+  height: 200px;
+  padding-right: 1em;
+  padding: 1em;
+  float: right;
+}
+
 .card {
   background-color: #f9f9f9;
   padding: 1em;
